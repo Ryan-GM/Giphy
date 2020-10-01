@@ -3,7 +3,7 @@ Ryan Munge
 
 # Description
 A small replica of a giphy account.
-[Live]{"https://ryan-gm.github.io/Giphy/"}.
+[Live](https://ryan-gm.github.io/Giphy/).
 
 # Giphy
 
