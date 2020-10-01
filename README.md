@@ -1,3 +1,10 @@
+# Created by 
+Ryan Munge
+
+# Description
+A small replica of a giphy account.
+[Live]{"https://ryan-gm.github.io/Giphy/"}.
+
 # Giphy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
