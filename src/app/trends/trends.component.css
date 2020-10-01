@@ -7,3 +7,36 @@
 .trend img{
     max-width: 250px;
 }
+
+.header {
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    padding: 7px 8px 0px;
+    font-family: interface;
+    display: flex;
+    text-align: left;
+    margin-bottom: 6px;
+    color: rgb(15, 15, 15);
+    font-size: 28px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
+.linkcontainer{
+    font-size: 15px;
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    color: rgb(166, 166, 166);
+    padding-right: 8px;
+    padding-bottom: 0px;
+    padding-left: 8px;
+    font-family: interface;
+    display: flex;
+    text-align: left;
+    margin-bottom: 6px;
+    cursor: pointer;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    padding-top: 10px !important;
+}
