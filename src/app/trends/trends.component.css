@@ -10,6 +10,9 @@
 
 .header {
     font-weight: 600;
+    border-radius: 14px;
+    height: 50px;
+    width: 55%;
     -webkit-font-smoothing: antialiased;
     padding: 7px 8px 0px;
     font-family: interface;
@@ -22,6 +25,8 @@
     align-items: center;
     -webkit-box-pack: start;
     justify-content: flex-start;
+    background: linear-gradient(to right, rgb(0, 204, 255), rgb(153, 51, 255) 31%, rgb(230, 70, 182) 52%,
+     rgb(255, 249, 170) 77%, rgb(0, 255, 153), rgb(0, 204, 255)) 0% 50% / 200% 50%;
 }
 .linkcontainer{
     font-size: 15px;
