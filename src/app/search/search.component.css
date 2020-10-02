@@ -4,6 +4,7 @@
     text-align: center;
     font-size: 18px;
     border-radius: 28px;
+    color: white;
 }
 
 .search input{
@@ -14,4 +15,9 @@
     font-weight: bold;
     font-size: 28px;
     border-radius: 18px;
+    color: white;
+}
+.image-link{
+    height: 100%;
+    width: 150%;
 }
