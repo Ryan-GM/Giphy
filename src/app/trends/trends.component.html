@@ -8,6 +8,6 @@
     </h2>
     <a href="/trending/gifs" class="linkcontainer"></a>
     <div class="trend" *ngFor="let gif of gifs">
-        <img src="{{gif.image}}" alt="image">
+        <img src="{{gif.images.downsized.url}}" alt="image">
     </div>
 </div>
